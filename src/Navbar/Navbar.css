@@ -1,0 +1,22 @@
+.navbar{
+    background-color: blue;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav_logo{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 15px;
+    color: antiquewhite;
+}
+.nav_items a{
+    margin: 15px;
+    color: antiquewhite;
+    position: relative;
+    text-decoration: none;
+}
+.nav_toggle{
+    display: none;
+}
